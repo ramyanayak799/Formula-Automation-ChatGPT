@@ -21,3 +21,4 @@ Date Handling: Work with dynamic dates and months efficiently
 🛠️ Tools Used
 Microsoft Excel
 ChatGPT for Formula Automation
+![Image](https://github.com/user-attachments/assets/4596e0fd-72ad-4dcf-b0b3-66d2842f9e59)
